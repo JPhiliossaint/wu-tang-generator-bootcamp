@@ -1,22 +1,17 @@
-# 🎤 Week08 Bootcamp2019a Project: Wu-Tang Name Generator
+
 
 ### Goal: Create a Wu-Tang Clan name generator. Present the user with 5 survey questions and based on those answers randomly generate their name. The name doesn't have to be exact names, but Wu-Tang sounding-ish names. Ex: Childish Gambino (who actually got his name from a Wu-Tang name generator).
 
-### How to submit your code for review:
+# GamerTag Generator : <a target="_blank" href="https://gamertag-generator-jamesphi.netlify.app/">Visit Here</a>
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+<
+## Tech used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=%7C&message=HTML5&color=23555f&style=plastic&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=%7C&message=CSS3&color=285f65&style=plastic&logo=css3)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=%7C&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript)
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+
+## Optimizations
+
+I could add more specific ramdpmized possibilties based off various combinations of choices rather than the most selected.
+
+## Lessons Learned:
+
+Reinforced the Separation of Concerns. Used applications of Math.Random to generate name. Reinforced understanding of arrays.
